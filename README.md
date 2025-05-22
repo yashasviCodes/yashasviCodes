@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Yashasvi Choudhary</h1>
 <h3 align="center">An aspiring AI engineer passionate about problem-solving and machine learning</h3>
 
-- 🎓 I'm a 3rd year B.Tech CSE student, graduating in 2026  
+- 🎓 I'm a 4th year B.Tech CSE student, graduating in 2026  
 - 🔍 I’m currently focusing on **Data Structures & Algorithms** and **Machine Learning**  
 - 💡 I enjoy building intelligent systems and exploring real-world AI applications  
 - 📚 I’ve solved over **400+ LeetCode** problems using **C++**    
