@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 - 🎓 I'm a 4th year B.Tech CSE student, graduating in 2026  
 - 🔍 I’m currently focusing on **Data Structures & Algorithms** and **Machine Learning**  
 - 💡 I enjoy building intelligent systems and exploring real-world AI applications  
-- 📚 I’ve solved over **400+ LeetCode** problems using **C++**    
-- 🛠️ I use **Python** for Data Science  
+- 📚 I’ve solved over **500 LeetCode** problems using **C++**    
 - 🌱 Learning Deep Learning, NLP, and CNNs step by step  
 
 ---
 
-### 🧰 Tech Stack I Use
+### 🧰 Technologies I am familiar with
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
