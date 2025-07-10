@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Yashasvi Choudhary</h1>
 <h3 align="center">An aspiring AI engineer passionate about problem-solving and machine learning</h3>
 
-- 🎓 I'm a 4th year B.Tech CSE student, graduating in 2026  
+- 🎓 I'm a final year B.Tech CSE student at Netaji Subhas University of Technology, graduating in 2026  
 - 🔍 I’m currently focusing on **Data Structures & Algorithms** and **Machine Learning**  
 - 💡 I enjoy building intelligent systems and exploring real-world AI applications  
 - 📚 I’ve solved over **500 LeetCode** problems using **C++**    
@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 <p align="left">
 
   <!-- Programming Languages -->
+  <h4>🧑‍💻 Programming Languages</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Data Science & Machine Learning -->
+  <h4>📊 Data Science & Machine Learning</h4>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
@@ -40,10 +42,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
   <!-- Computer Vision -->
+  <h4>🖼️ Computer Vision</h4>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Ultralytics-008080?style=for-the-badge&logo=ultralytics&logoColor=white" />
 
   <!-- Web & App Development -->
+  <h4>🌐 Web Development</h4>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -52,9 +56,11 @@ Here are some ideas to get you started:
   <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
   
    <!-- APIs & AI -->
+   <h4>🧠 APIs & AI Platforms</h4>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
   <!-- Developer Tools -->
+  <h4>🧰 Developer Tools</h4>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
