@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 
 - 🧠 **LeetCode**: [leetcode.com/u/yashasviCodes](https://leetcode.com/u/yashasviCodes/)
 - 💻 **Codeforces**: [codeforces.com/profile/yashasviCodes](https://codeforces.com/profile/yashasviCodes)
-  <br><img src="https://cf.leed.at?id=yashasviCodes" alt="Codeforces Profile Stats" />
 ---
 ### 📫 Connect with Me
 - 💼 LinkedIn: [Yashasvi Choudhary](https://www.linkedin.com/in/yashasvi-choudhary-311662262/)  
