@@ -25,18 +25,44 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧰 Technologies I am familiar with
+### 🧰 Technologies and Tools I have worked with
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-%23FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <!-- Data Science & Machine Learning -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <!-- Computer Vision -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ultralytics-008080?style=for-the-badge&logo=ultralytics&logoColor=white" />
+
+  <!-- Web & App Development -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+  
+   <!-- APIs & AI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <!-- Developer Tools -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
+
+  <!-- Design Systems -->
+ <!-- <img src="https://img.shields.io/badge/Raaghu%20Design%20System-4B0082?style=for-the-badge" /> -->
+
 </p>
 
 ---
@@ -48,24 +74,19 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviCodes&layout=compact&theme=radical" height="160"/>
 </p>
 
----
-<!--
-### 🌐 Online Profiles
-
 <p align="left">
-  <a href="https://leetcode.com/u/yashasviCodes/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-yashasviCodes-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashasviCodes&theme=radical" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasviCodes&theme=radical" height="200"/>
 </p>
 
 ---
--->
-### 📫 Connect with Me
+### 🌐 Online Profiles
 
+- 🧠 **LeetCode**: [leetcode.com/u/yashasviCodes](https://leetcode.com/u/yashasviCodes/)
+- 💻 **Codeforces**: [codeforces.com/profile/yashasviCodes](https://codeforces.com/profile/yashasviCodes)
+  <br><img src="https://cf.leed.at?id=yashasviCodes" alt="Codeforces Profile Stats" />
+---
+### 📫 Connect with Me
 - 💼 LinkedIn: [Yashasvi Choudhary](https://www.linkedin.com/in/yashasvi-choudhary-311662262/)  
-- 💻 GitHub: [@yashasviCodes](https://github.com/yashasviCodes)  
-- 🧠 LeetCode: [leetcode.com/u/yashasviCodes](https://leetcode.com/u/yashasviCodes/)
 
 ---
-
-> ⚡ “Solving problems, one algorithm at a time.”
