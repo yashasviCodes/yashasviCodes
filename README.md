@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yashasviCodes&show_icons=true&theme=one_dark_pro" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviCodes&layout=pie&theme=one_dark_pro" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviCodes&layout=donut&theme=one_dark_pro" height="160"/>
 </p>
 <!--
 <p align="left">
