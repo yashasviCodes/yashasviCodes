@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashasviCodes&show_icons=true&theme=gruvbox" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviCodes&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashasviCodes&show_icons=true&theme=one_dark_pro" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviCodes&layout=compact&theme=one_dark_pro" height="160"/>
 </p>
 <!--
 <p align="left">
